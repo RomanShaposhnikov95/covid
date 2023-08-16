@@ -1,0 +1,26 @@
+.calendar {
+  border: none;
+  .react-datepicker {
+    &__header {
+      background-color: var(--gold);
+      border-bottom: none;
+    }
+    &__navigation {
+      span {
+        &:before {
+          border-color: var(--black);
+        }
+      }
+    }
+
+    &__day {
+      font-size: 21px;
+      &--selected, &--in-selecting-range, &--in-range  {
+        background-color: var(--gold);
+        color: var(--white);
+      }
+    }
+  }
+}
+
+

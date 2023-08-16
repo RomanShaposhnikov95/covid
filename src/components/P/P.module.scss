@@ -1,0 +1,66 @@
+.p {
+    margin: 0;
+}
+
+.xs {
+    font-size: 14px;
+    letter-spacing: -0.26px;
+    line-height: 20px;
+}
+
+.s {
+    color: #454D54;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    line-height: 24px;
+}
+
+.m {
+    font-weight: 300;
+    font-size: 18px;
+    letter-spacing: -0.4px;
+    line-height: 28px;
+}
+
+.l {
+    font-size: 26px;
+    font-weight: bold;
+    letter-spacing: -0.4px;
+    line-height: 31px;
+}
+
+.xl {
+    font-size: 36px;
+    font-weight: 500;
+    letter-spacing: -0.55px;
+    line-height: 44px;
+}
+
+.xxl {
+    font-size: 50px;
+    font-weight: 800;
+    letter-spacing: -1px;
+    line-height: 64px;
+}
+.black {
+    color: var(--black);
+}
+
+.white {
+    color: var(--white);
+}
+
+.grey {
+    color: var(--grey);
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.darkgrey {
+    color: var(--darkGrey);
+}
+
+
+

@@ -1,0 +1,22 @@
+.datePicker {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.datePickerWrapper {
+  border: 3px solid green;
+  .react-datepicker__header {
+    background-color: green;
+    border-bottom: none;
+  }
+}
+
+.react-datepicker__header {
+  background-color: green;
+  border-bottom: none;
+}
+
+.popper {
+  border: 3px solid yellow;
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>074BBFEA-80D1-4E62-88E4-B4341D6B4F75</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sākumlapa" transform="translate(-1358.000000, -32.000000)" fill="#ABB1BA">
+            <g id="Top-bar" transform="translate(20.000000, 17.000000)">
+                <g id="Buttons" transform="translate(1324.000000, 3.000000)">
+                    <g id="Icon" transform="translate(14.000000, 12.000000)">
+                        <path d="M8,0 C10.209139,0 12,1.790861 12,4 L12.0009007,6.17102423 C13.1656226,6.58311485 14,7.69411778 14,9 L14,13 C14,14.6568542 12.6568542,16 11,16 L5,16 C3.34314575,16 2,14.6568542 2,13 L2,9 C2,7.69374794 2.8348501,6.58248558 4.00008893,6.17067428 L4,4 C4,1.790861 5.790861,0 8,0 Z M8,2 C6.8954305,2 6,2.8954305 6,4 L6,6 L10,6 L10,4 C10,2.8954305 9.1045695,2 8,2 Z" id="icon"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
