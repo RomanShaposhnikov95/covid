@@ -18,9 +18,9 @@ export interface OptionType {
 export const TablePage = React.memo(({currentData, meta, loading, filterParam}: TablePageProps): JSX.Element => {
     const columns: DataItem[] = [
         {
-            id: 100,
-            title: "Дата",
-            data: "dateRep",
+            id: 1,
+            title: "Страна",
+            data: "countriesAndTerritories",
             sorter: true
         },
         {

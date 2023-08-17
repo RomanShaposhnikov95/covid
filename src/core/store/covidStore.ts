@@ -126,8 +126,6 @@ export const CovidStore = {
                 currentData: CovidStore.service.displayData(1, CovidStore.store.getState().meta.itemsPerPage, arr),
                 filterParam: {
                     ...CovidStore.store.getState().filterParam,
-                    // startDate: new Date(Math.min(...dates.map(date => date.getTime()))),
-                    // endDate: new Date(Math.max(...dates.map(date => date.getTime()))),
                     startDate: dates && dates.length > 0 ? new Date(Math.min(...dates.map(date => date.getTime()))) : new Date(),
                     endDate: dates && dates.length > 0 ? new Date(Math.max(...dates.map(date => date.getTime()))) : new Date()
                 },
